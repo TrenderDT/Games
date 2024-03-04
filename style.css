@@ -1,0 +1,91 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #b8b8b8;
+}
+
+.Title {
+  font-style: Black;
+  transition: 0.5s;
+}
+
+.Title:hover {
+  background-color: lightgreen;
+}
+
+.Button1Style {
+  border-color: blue;
+  background-color: lightblue;
+  font-size: 25px;
+  transition: 0.5s;
+} .Button1Style:hover {
+  border-color: lightblue;
+  background-color: blue;
+  font-size: 27px;
+}
+
+
+.Button2Style {
+  border-color: red;
+  background-color: #ff7575;
+  transition: 0.5s;
+} .Button2Style:hover {
+  border-color: #ff7575;
+  background-color: red;
+  font-size: 20px;
+}
+
+.Button3Style {
+  border-color: green;
+  background-color: #6dfd70;
+  transition: 0.5s;
+} .Button3Style:hover {
+  border-color: #6dfd70;;
+  background-color: green;
+  font-size: 20px;
+}
+
+.Button4Style {
+  border-color: #bdbd00;
+  background-color: #e2f202;
+  transition: 0.5s;
+} .Button4Style:hover {
+  border-color: #e2f202;;
+  background-color: #bdbd00;
+  font-size: 20px;
+}
+
+.Button5Style {
+  border-color: #00c2c2;
+  background-color: #00e1ff;
+  transition: 0.5s;
+} .Button5Style:hover {
+  border-color: #00e1ff;
+  background-color: #00c2c2;
+  font-size: 20px;
+}
+
+.ButtonStyle6 {
+  border-color: #0400ff;
+  background-color: #00b3ff;
+  transition: 0.5s;
+} .ButtonStyle6:hover {
+  border-color: #00b3ff;
+  background-color: #0400ff;
+  font-size: 20px;
+}
+
+.Arial {
+  font-family: Arial;
+}
+
+.button-container {
+  text-align: center;
+}
+.button-container button {
+  display: inline-block;
+  margin-right: 10px;
+}
